@@ -19,4 +19,4 @@ While I do believe that this can be a sustaibale year-round business, I belevie 
 
 One query I wish to further look into is the percipitation since no one will want ice cream or to surf during that time, and it seems a much bigger deterrent for those two activities then the temperature will be.
 
-Another query I would like to look into is wind speed. Wind can effect the waves and effect the "feels like" temperature outside. so even if it says 75&#176;f and sunny, with high win speeds it could feel like 68&#176;f and make no one want ice cream since it will feel to cold.
+Another query I would like to look into is wind speed. Wind can effect the waves and effect the "feels like" temperature outside. So even if it says 75&#176;f and sunny, with high win speeds it could feel like 68&#176;f and make no one want ice cream since it will feel to cold. Or if there is not enough wind then less waves will happen and you will get less surfing customers.
